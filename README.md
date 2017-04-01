@@ -9,7 +9,7 @@ The visualization framework is intended to be used by art museums to showcase th
 ## Questions
 This data visualization should answer the question of how the internet can be used to make public resources like museums available at a lower cost while engaging with the public, and also whether or not this visualization framework can support the cultural economy. This will also answer the question of finding creative ways to visualize high density data. 
 
-# References: 
+## References: 
 1. Bell, Ford W. "IIP Digital | U.S. Department of State." You Asked: How Are Museums Supported Financially in the United States? | IIP Digital. N.p., 14 Mar. 2012. Web. 20 Mar. 2017. http://iipdigital.usembassy.gov/st/english/pamphlet/2012/05/201205155699.html#axzz4bsO7yyn9 
 
 2. Naylor, Brian. "Trump's Budget Plan Cuts Funding For Arts, Humanities And Public Media." NPR. NPR, 16 Mar. 2017. Web. 20 Mar. 2017. http://www.npr.org/2017/03/16/520401246/trumps-budget-plan-cuts-funding-for-arts-humanities-and-public-media 
